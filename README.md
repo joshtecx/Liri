@@ -61,3 +61,6 @@ NOTE: Some songs don't have preview URL's
 <img width="982" alt="screen shot 2018-04-23 at 6 13 32 pm" src="https://user-images.githubusercontent.com/32961912/39156379-db53e1d6-4723-11e8-8a02-92aba1bb31c0.png">
 
 ### Do what it says 
+<img width="934" alt="screen shot 2018-04-23 at 6 14 10 pm" src="https://user-images.githubusercontent.com/32961912/39156436-1a150cd8-4724-11e8-81ca-48d0d5081c20.png">
+
+NOTE: As you can tell, this is one of the cases where the song does have a preview URL
