@@ -50,6 +50,7 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 # screenshots
 
 ### Twitter
+<img width="988" alt="screen shot 2018-04-23 at 6 04 13 pm" src="https://user-images.githubusercontent.com/32961912/39155746-5e55c372-4721-11e8-919b-da830e842bff.png">
 
 ### Spotify
 
