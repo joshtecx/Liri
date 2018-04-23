@@ -53,6 +53,9 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 <img width="988" alt="screen shot 2018-04-23 at 6 04 13 pm" src="https://user-images.githubusercontent.com/32961912/39155746-5e55c372-4721-11e8-919b-da830e842bff.png">
 
 ### Spotify
+<img width="560" alt="screen shot 2018-04-23 at 6 22 49 pm" src="https://user-images.githubusercontent.com/32961912/39156263-631c4992-4723-11e8-9122-b0765c3619b5.png">
+
+NOTE: Some songs don't have preview URL's
 
 ### OMDB
 
